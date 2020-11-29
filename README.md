@@ -2,7 +2,7 @@
 
  💼I'm  CSE  Student from Kiet Group Of Institution Ghaziabad,India.
  
- 🌱 I’m currently learning JS & React.
+ 🌱 I’m currently learning React.
  
  👯 I’m looking to collaborate on projects made in web developement.
  
